@@ -1,0 +1,19 @@
+# VS Code
+.vscode/
+
+# Python env
+.venv/
+lab06/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Kuzu / temp database files
+lab06/tmp/
+*.kz
+*.hindex
+
+# macOS
+.DS_Store
